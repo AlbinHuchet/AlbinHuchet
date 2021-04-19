@@ -1,0 +1,19 @@
+body {
+	text-align: center;
+	margin: "5";
+}
+.nabar {
+background-color: blue;
+overflow: hidden;
+}
+.nabar	a {
+	float: left;
+	color: yellow;
+	padding: 14px 20px;
+}
+.nabar a:hover {
+	background-color: darkblue;
+}
+.maintext {
+	font-family: Times, serif;
+}
